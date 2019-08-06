@@ -1,22 +1,24 @@
 {
-    "userData": {
-        "profilePhoto": "https://i.pinimg.com/564x/86/34/ab/8634ab84d12e0e37785bb19f31e205e6.jpg",
-        "modalAvatarPhoto": "https://i.pinimg.com/originals/ff/87/88/ff8788b80d39079f46378e3fb541405b.jpg",
-        "personalInfo": {
-            "first_name": "Dmitriy",
-            "patronymic": "Igorevich",
-            "last_name": "Miroshnychenko",
-            "birthday": "10.10.1997",
-            "city": "Dnipro",
-            "education": "DIIT",
-            "marital_status": "Married"
-        },
-        "contacts": {
-            "phoneNumber": "+38(067)-564-35-40",
-            "github": "https://github.com/herrsteile",
-            "email": "miroshnychenko.job@gmail.com"
+    "userData": [
+        {
+            "profilePhoto": "https://i.pinimg.com/564x/86/34/ab/8634ab84d12e0e37785bb19f31e205e6.jpg",
+            "modalAvatarPhoto": "https://i.pinimg.com/originals/ff/87/88/ff8788b80d39079f46378e3fb541405b.jpg",
+            "personalInfo": {
+                "first_name": "Dmitriy",
+                "patronymic": "Igorevich",
+                "last_name": "Miroshnychenko",
+                "birthday": "10.10.1997",
+                "city": "Dnipro",
+                "education": "DIIT",
+                "marital_status": "Married"
+            },
+            "contacts": {
+                "phoneNumber": "+38(067)-564-35-40",
+                "github": "https://github.com/herrsteile",
+                "email": "miroshnychenko.job@gmail.com"
+            }
         }
-    },
+    ],
     "skills": [
         {
             "skillName": "html5",
@@ -40,7 +42,7 @@
             "experience": "1 year"
         },
         {
-            "skillName": "object-orientedPprogramming",
+            "skillName": "object-oriented programming",
             "id": "4",
             "skillImg": "https://i.pinimg.com/originals/02/2d/f8/022df815bcfbb04334bbbaa2cccc396c.png",
             "type": "professional",
